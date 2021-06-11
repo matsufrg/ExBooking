@@ -1,6 +1,6 @@
 # Exbooking
 
-**TODO: Add description**
+An application for booking flights
 
 ## Installation
 
